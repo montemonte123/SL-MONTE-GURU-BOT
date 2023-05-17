@@ -49,7 +49,7 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.botname = 'SL-DASUN'
 global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ' 
+global.packname = 'GURU┃ᴮnᵀ' 
 global.author = '@SL-DASUN' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
 global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
